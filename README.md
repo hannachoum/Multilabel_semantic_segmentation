@@ -1,0 +1,2 @@
+# Multilabel_semantic_segmentation
+Configuring MMsegmentation repo for multilabel segmentation
